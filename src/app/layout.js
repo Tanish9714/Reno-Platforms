@@ -73,7 +73,7 @@ export default function RootLayout({ children }) {
         <footer className="w-full bg-slate-900 text-slate-400 border-t border-slate-800">
           <div className="max-w-6xl mx-auto px-6 py-6 text-center">
             <p className="text-sm">
-              &copy; 2025 School Management Portal. All rights reserved.
+              &copy; 2025 School Management Portal.
             </p>
           </div>
         </footer>
